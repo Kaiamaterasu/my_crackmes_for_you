@@ -19,9 +19,9 @@ There are two actors on this stage. If you spend all your time watching the chil
 The payload is not decrypted by the code you are reading. The child knows nothing—it only knows how to panic and freeze (INT3). The knowledge you seek lives entirely outside its mind.
 
 04. The Answer to Everything
-The master key is 0x42. But do not bother searching for it in the payload's memory space. It never crosses the boundary until the exact microsecond it is needed.
+The master key is 0x4x ( x is the replacement for the number there should have been , find it ). But do not bother searching for it in the payload's memory space. It never crosses the boundary until the exact microsecond it is needed.
 
 Good luck. 
 Never give up.
 
--- 0x0002 
+-- 0x0002
