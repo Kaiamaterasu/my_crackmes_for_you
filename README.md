@@ -1,4 +1,4 @@
-To the 0x0002 community.
+To the 0x002 community.
 
 I am stepping away for a while. Everything you need to know is inside this file. 
 Before I go, I leave you with one final exam. 
@@ -24,4 +24,4 @@ The master key is 0x4x ( x is the replacement for the number there should have b
 Good luck. 
 Never give up.
 
--- 0x0002
+-- 0x002
